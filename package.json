@@ -1,0 +1,23 @@
+{
+  "name": "voice_assistant",
+  "version": "1.3.4",
+  "description": "Helpful For life SoftwareHelpful For life Software",
+  "main": "index.js",
+  "required-library":{
+    "required-library":"speech_recognition, gtts, playsound, koronavirus",
+    "default-python library":"os,sys,time,platform,traceback"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stragont/voice_assistant.git"
+  },
+  "author": "jolanka'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stragont/voice_assistant/issues"
+  },
+  "homepage": "https://github.com/stragont/voice_assistant#readme"
+}

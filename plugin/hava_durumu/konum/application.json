@@ -1,0 +1,14 @@
+{
+    "succes": true,
+    "result": {
+      "ip": "95.8.131.139",
+      "type": "ipv4",
+      "country_name": "Turkey",
+      "regioncode": "34",
+      "regionname": "Istanbul",
+      "city": "Istanbul",
+      "zipcode": "34134",
+      "latitude": "41.0186",
+      "longitude": "28.9647"
+    }
+  }

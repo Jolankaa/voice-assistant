@@ -1,0 +1,5 @@
+SpeechRecognition
+gtts
+playsound
+request
+colorama

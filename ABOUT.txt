@@ -1,0 +1,31 @@
+ Title: Voice Assistant ABOUT FİLE 
+ Date: 2022-08-10
+ Author: jolanka
+ Category: ABOUT FİLE
+ 
+
+ About(Turkish,Türkçe):
+    Bu yazılım 14.08.2022 yılında yazılmış olup hala geliştirilmektedir .
+    Poyraz Soylu tarafından yazılan bu yazılımın hakları halka açık olup
+    açık kaynak kodludur . Tek amacım insanların hayat kalitesini artırıp 
+    Dünyaya faydamın olmasıdır .
+    İletişim adresleri ;
+        LinkedIn : https://tr.linkedin.com/in/poyraz-soylu-4a5056216
+        Github :  https://github.com/stragont
+        Spotify : https://open.spotify.com/user/9m57chc6rmk6sqrad2efs7thw?si=b25ab633b0284591
+ 
+    Özel teşekkür : https://github.com/ber4tbey,
+                 https://github.com/clumsy28
+
+ About(English,İngilizce):
+    This software is in the library on 14.08.2022 and is still under development.
+    Written by Poyraz Soylu, the rights of this software are public.
+    It is open source code. My only goal is to increase life
+    My benefit to the world is superior.
+    Communication ways;
+        LinkedIn : https://tr.linkedin.com/in/poyraz-soylu-4a5056216
+        Github:   https://github.com/stragont
+        Spotify : https://open.spotify.com/user/9m57chc6rmk6sqrad2efs7thw?si=b25ab633b0284591
+ 
+    Special Thanks : https://github.com/ber4tbey,
+                  https://github.com/clumsy28

@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "result": [
+      {
+        "katkili": 6.91,
+        "benzin": 6.86,
+        "marka": "Petrol Ofisi"
+      },
+      {
+        "katkili": 6.87,
+        "benzin": 6.87,
+        "marka": "Lukoil"
+      },
+      {
+        "katkili": 6.92,
+        "benzin": 6.87,
+        "marka": "Shell"
+      },
+      "..."
+    ]
+  }

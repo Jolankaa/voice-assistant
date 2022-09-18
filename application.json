@@ -1,0 +1,20 @@
+{
+    "version":"v0.01Alpha",
+    "description":"Helpful Voice Assistant",
+    "author":"Poyraz jolanka Soylu",
+    "required-library":{
+        "required-library":"speech_recognition, gtts, playsound, koronavirus",
+        "default-python library":"os,sys,time,platform,traceback"
+    },
+    "required-frameworks":{
+        "x64,x86":{
+            "required-frameworks":"git,python(3.10,x64)" 
+        }
+    },
+    "architecture": { 
+        "x64,x86": {
+            "url":"https://github.com/stragont/voice_assistant"
+
+        }
+    }
+}

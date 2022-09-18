@@ -1,0 +1,10 @@
+[tool]
+[tool.poetry]
+name = "Jolanka_Voice_Assistant"
+version = "1.2.1apha"
+description = "Helpful For life Software"
+authors = ["jolanka"]
+[tool.poetry.dependencies]
+python = "python 3 and above (this program is Python 3.10.5)"
+gitpython = "*"
+requests = "python 3 and above"
