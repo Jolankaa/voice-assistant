@@ -4,8 +4,7 @@
 <p align="center">
     Jolanka - Voice Assistant - Api 
     <br>
-        |
-        <a href="https://github.com/stragont">Github</a>
+        <a href="https://github.com/stragont">Github</a> | 
         <a href="https://www.linkedin.com/in/poyraz-soylu-4a5056216">linkedin</a>
     <br>
 </p>
